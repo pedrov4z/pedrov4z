@@ -6,8 +6,8 @@ Hi, I help my team by developing functional and attractive websites for people, 
 
 <div align="center">
   <a href="https://github.com/pedrov4z/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrov4z&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrov4z&layout=compact&show_icons=true&theme=gruvbox_light"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrov4z&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrov4z&layout=compact&show_icons=true"/>
 </div>
 
 ## Got work for me?
